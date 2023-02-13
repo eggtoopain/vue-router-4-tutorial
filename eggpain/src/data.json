@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "鸡蛋",
+    "type": "chicken-egg",
+    "image": "chicken-egg.jpeg",
+    "description": "又名鸡卵、鸡子，是母鸡所产的卵",
+    "flavour": "味甘，性平，无毒（煮熟后）"
+  },
+  {
+    "id": 2,
+    "name": "鸭蛋",
+    "type": "duck-egg",
+    "image": "duck-egg.jpeg",
+    "description": "又名鸭子、鸭卵、太平、鸭春、青皮等，为鸭科动物家鸭的卵，受精卵可孵化成小鸭",
+    "flavour": "性涼、味甘"
+  },
+  {
+    "id": 3,
+    "name": "鹅蛋",
+    "type": "goose-egg",
+    "image": "goose-egg.jpeg",
+    "description": "家禽鹅生下的卵",
+    "flavour": "有些油"
+  },
+  {
+    "id": 4,
+    "name": "鹌鹑蛋",
+    "type": "quail-egg",
+    "image": "quail-egg.jpeg",
+    "description": "鵪鶉所產的卵，蛋殼表面帶有棕褐色斑點",
+    "flavour": "味甘、性平"
+  },
+  {
+    "id": 5,
+    "name": "笨蛋",
+    "type": "dumb-egg",
+    "image": "dumb-egg.jpeg",
+    "description": "我才不是笨蛋",
+    "flavour": "没吃过"
+  }
+]
